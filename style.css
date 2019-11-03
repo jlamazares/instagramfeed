@@ -16,10 +16,12 @@ div.post{
     }
 div.post img{
     width:100%;
+    height: 70%;
     }
     div.post .post-header div:first-child{
         display: inline-block;
         width:80%;
+        height: 60px;
         background: white;
         padding:10px;
     }
@@ -27,6 +29,7 @@ div.post img{
         display: inline-block;
         float:right;
         width:18%;
+        height: 60px;
         text-align: right;
         padding: 10px;
         margin:auto;
