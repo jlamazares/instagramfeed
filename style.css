@@ -16,7 +16,8 @@ div.post{
     }
 div.post img{
     width:100%;
-    height: 70%;
+    height: 375px;
+    object-fit: cover;
     }
     div.post .post-header div:first-child{
         display: inline-block;
